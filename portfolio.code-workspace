@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../OnePager"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OnePager"
+	}
+}
